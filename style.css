@@ -82,7 +82,7 @@ nav ul li a:hover{
     flex-direction: row;
 }
 .spacer {
-    height: 30rem;
+    height: 10rem;
 }
 .content {
     width: 90vw;
@@ -96,4 +96,8 @@ nav ul li a:hover{
     -webkit-box-shadow: 6px 15px 21px 0px rgba(0,0,0,0.6);
     -moz-box-shadow: 6px 15px 21px 0px rgba(0,0,0,0.6);
     color: black;
+}
+.section-name{
+    font-size: 5rem;
+    text-align: center;
 }
